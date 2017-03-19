@@ -15,7 +15,7 @@ https://xemantic.github.io/apeiron/
 The image is draggable. You can explore it. It should also adjust to any
 screen size.
 
-It is based on this the [Ascending and Descending](https://en.wikipedia.org/wiki/Ascending_and_Descending)
+It is based on the [Ascending and Descending](https://en.wikipedia.org/wiki/Ascending_and_Descending)
 lithograph by [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)
  
 I used this library:
