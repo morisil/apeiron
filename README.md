@@ -5,7 +5,7 @@ _infinite Escher_
 meaning "boundless", "infinite", or "indefinite", etymologically stands
 for "without limit".
 
-I prepared the [esher.xcf] file (Gimp format) a long time ago because
+I prepared the [escher.xcf](escher.xcf) file (Gimp format) a long time ago because
 I wanted to achieve seamlessly repeatable background image based on the
 illusion of endless stairs. I've never used it, but while reviewing archive of old files
 I decided to make something more creative out of it. Check it out:
