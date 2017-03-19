@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>apeiron</title>
+  <style>
+    html, body {
+      margin: 0px;
+      height: 100%;
+      background: black;
+    }
+    #content {
+      position: absolute;
+      margin: auto;
+      width: 39%;
+      height: 39%;
+      left: 30%;
+      top: 30%;
+      background-image: url("escher.jpg");
+      background-size: 200%;
+      cursor: move;
+      display: none;
+    }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="draggable_background.js"></script>
+    <script>
+      $(function() {
+        $('#content').backgroundDraggable({ bound: false });
+      });
+
+      $(document).ready(function() {
+        $('#content').fadeIn(3000);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="content"> </div>
+  </body>
+</html>
