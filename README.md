@@ -10,7 +10,7 @@ I wanted to achieve seamlessly repeatable background image based on the
 illusion of endless stairs. I've never used it, but while reviewing archive of old files
 I decided to make something more creative out of it. Check it out:
 
-https://xemantic.github.io/apeiron/
+https://morisil.github.io/apeiron/
 
 The image is draggable. You can explore it. It should also adjust to any
 screen size.
